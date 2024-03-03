@@ -122,7 +122,8 @@ HLT
 ```
 ## Output  
 
-![Screenshot 2024-03-03 163749](https://github.com/saniyaganesamoorthy/EXPERIMENT--01-ALP-FOR-8086/assets/145742583/e2a9f66d-ec4a-4cce-b31f-06dcb1423ffa)
+
+![Screenshot 2024-03-03 163946](https://github.com/saniyaganesamoorthy/EXPERIMENT--01-ALP-FOR-8086/assets/145742583/742e3ce8-932d-4055-a656-ba184f290ccd)
 
 
 ## Result :

@@ -89,7 +89,8 @@ HLT
 
 
 ## Output  
-![Screenshot 2024-03-03 163513](https://github.com/saniyaganesamoorthy/EXPERIMENT--01-ALP-FOR-8086/assets/145742583/e08e63f1-a4ce-4609-a3dc-53db547fe25c)
+![add](https://github.com/saniyaganesamoorthy/EXPERIMENT--01-ALP-FOR-8086/assets/145742583/d27be566-b4ee-45d7-9f86-3c7d41e332cc)
+
 
 ## Subtraction   of 8 bit numbers  ALP 
 ```
@@ -100,7 +101,7 @@ HLT
 ```
  
 ## Output  
-![Screenshot 2024-03-03 163627](https://github.com/saniyaganesamoorthy/EXPERIMENT--01-ALP-FOR-8086/assets/145742583/3616e0de-8de4-44fd-aac5-08d0676dc09b)
+![sub](https://github.com/saniyaganesamoorthy/EXPERIMENT--01-ALP-FOR-8086/assets/145742583/2ecd13c2-84fc-41c1-97f9-e272fb783008)
 
 ## Multiplication alp 
 ```
@@ -111,7 +112,7 @@ HLT
 ```
  ## Output  
 
-![Screenshot 2024-03-03 163749](https://github.com/saniyaganesamoorthy/EXPERIMENT--01-ALP-FOR-8086/assets/145742583/b19197cd-aabb-4f29-bc65-f1e0f47730d4)
+![mul](https://github.com/saniyaganesamoorthy/EXPERIMENT--01-ALP-FOR-8086/assets/145742583/86c0e2a7-bde0-4426-8bff-43cd1502cca3)
 
 ## Division alp 
 ```
@@ -122,8 +123,9 @@ HLT
 ```
 ## Output  
 
+![div](https://github.com/saniyaganesamoorthy/EXPERIMENT--01-ALP-FOR-8086/assets/145742583/d9d22da0-94c5-4ff7-930c-dd6715b53e54)
 
-![Screenshot 2024-03-03 163946](https://github.com/saniyaganesamoorthy/EXPERIMENT--01-ALP-FOR-8086/assets/145742583/742e3ce8-932d-4055-a656-ba184f290ccd)
+
 
 
 ## Result :
